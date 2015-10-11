@@ -1,5 +1,5 @@
 require 'rails_helper'
 
-RSpec.describe "pages/show.html.erb", type: :view do
-  pending "add some examples to (or delete) #{__FILE__}"
+RSpec.describe 'pages/show.html.erb', type: :view do
+  pending '認証部が未実装'
 end
