@@ -16,6 +16,9 @@
 !/log/.keep
 /tmp
 
+# Ignore secret file.
+/config/secrets.yml
+
 # Ignore emacs backup files.
 \#*
 .#*
